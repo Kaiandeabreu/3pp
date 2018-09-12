@@ -5,3 +5,8 @@ Era uma vez uma família feliz de três porquinhos que programavam. O primeiro, 
 # Continuação
 
 Eles decidiram abrir uma desenvolvedora de jogos.
+=======
+
+# Continuação
+
+Veio a crise e os faliu.
